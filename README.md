@@ -1,3 +1,2 @@
-# embed_tableau
-# embed_tableau
 # embed-tableau
+This repository contains flask app that embeds tableau dashboard.
